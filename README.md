@@ -26,5 +26,7 @@ Official documentation from MapBox can be found at [Mapbox Documentation](https:
 
 
 ## 📚 Code Organization
-To populate
+`KMeans_Clustering.ipynb` notebook for clustering samples via KMeans method.
+
+`AdminZones_Clustering.ipynb` notebook for clustering samples via administrative boundaries according to geoBoundaries.
 
