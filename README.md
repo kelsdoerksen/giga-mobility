@@ -30,3 +30,7 @@ Official documentation from MapBox can be found at [Mapbox Documentation](https:
 
 `AdminZones_Clustering.ipynb` notebook for clustering samples via administrative boundaries according to geoBoundaries.
 
+`Buffer_Intersection.ipynb` notebook for adding Mapbox mobility data to school/non-school samples according to user-defined buffer extent (in meters).
+
+`Point_Intersection.ipynb` notebook for adding Mapbox mobility data to school/non-school samples according to direct intersection with Mpabox quadkey or by taking the nearest Mapbox mobility point to the aoi.
+
