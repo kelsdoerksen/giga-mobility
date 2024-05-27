@@ -34,3 +34,5 @@ Official documentation from MapBox can be found at [Mapbox Documentation](https:
 
 `Point_Intersection.ipynb` notebook for adding Mapbox mobility data to school/non-school samples according to direct intersection with Mpabox quadkey or by taking the nearest Mapbox mobility point to the aoi.
 
+`TimeSeries_Feature_Generation.ipynb` notebook for generating movility data features to be used by ML classifier.
+
