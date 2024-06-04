@@ -36,3 +36,5 @@ Official documentation from MapBox can be found at [Mapbox Documentation](https:
 
 `TimeSeries_Feature_Generation.ipynb` notebook for generating movility data features to be used by ML classifier.
 
+`Plotting_Samples.ipynb` notebook for generating plots of Top 5 AOIs per sample type and median activity index per cluster.
+
